@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "puppeteer": "https://deno.land/x/puppeteer@16.2.0/mod.ts",
+    "telegraf": "https://deno.land/x/telegraf@v4.12.3/mod.ts",
+    "moment": "https://esm.sh/moment",
+    "fs": "https://deno.land/std/node/fs.ts"
+  }
+}
